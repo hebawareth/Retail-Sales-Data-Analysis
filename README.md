@@ -60,14 +60,17 @@ The project follows the complete data analysis workflow:
 
 ## 📷 Dashboard Preview
 
+### HomePage
+![Home Page](Images/HomePage%201.jpeg)
+
 ### Dashboard 1
-![Dashboard 1](Images/DashBoard%201.jpeg)
+![Dashboard 1](Images/DashBoard%202.jpeg)
 
 ### Dashboard 2
-![Dashboard 2](Images/DashBoard%202.jpeg)
+![Dashboard 2](Images/DashBoard%203.jpeg)
 
 ### Dashboard 3
-![Dashboard 3](Images/DashBoard%203.jpeg)
+![Dashboard 3](Images/DashBoard%204.jpeg)
 
 
 ## 🚀 Skills Demonstrated
